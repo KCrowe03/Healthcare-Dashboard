@@ -1,0 +1,6 @@
+# Ignore large or sensitive files
+Data/cms_hospital_patient_satisfaction_2020.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
