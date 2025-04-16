@@ -10,7 +10,8 @@ The final Tableau dashboard includes:
 - State-level map of average hospital scores
 - Interactive filters by state and ownership
 
-(DASHBOARD)
+[View dashboard on Tableau Public](https://public.tableau.com/app/profile/kristen.crowe2897/viz/HospitalRatingsbyOwnershipTypeandState/U_S_HospitalQualityDashboard)
+
 
 ## Tools Used
 
