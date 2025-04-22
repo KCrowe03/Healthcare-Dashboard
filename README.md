@@ -70,5 +70,8 @@ This was my first time cleaning real-world healthcare data and creating a dashbo
 - File: `Data/Hospital General Information.csv` (from CMS website)
 - Cleaned version saved as `hospital_quality_dashboard.csv`
 
+### Project Status
+This project is still in progress as I continue learning and improving the dashboard. I'm also building skills with tools I plan to use in future updates, including Power BI, SQL, Plotly, Matplotlib, GitHub Actions, and better Markdown formatting. Updates will reflect what I learn along the way.
+
 ### Note:
 The file `cms_hospital_patient_satisfaction_2020.csv` was too large for GitHub, so it was excluded. It is not required to run this version of the project.
